@@ -14,5 +14,7 @@
 
 En este proyecto se trabajo con
 
-![Node js logo](./src/img/nodejs.png)![Express js logo](./src/img/expressjs.png)![Sequelize logo](./src/img/sequelize.png)[MySQL logo](./src/img/mysql.png)
+![Node js logo](./src/img/nodejs.png)![Express js logo](./src/img/expressjs.png)![Sequelize logo](./src/img/sequelize.png)
+
+![MySQL logo](./src/img/mysql.png)
 
